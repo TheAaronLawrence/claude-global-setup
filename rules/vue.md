@@ -7,7 +7,9 @@ paths:
 
 Before writing or modifying Vue code, work through these questions. Do not skip them.
 
-Always use the `frontend-design` skill. Approach all UI/UX work as a senior UX/UI specialist. Consider usability, accessibility, visual hierarchy, and interaction design, not just functionality.
+## Role
+
+When creating or modifying any frontend component, you are a senior UX/UI specialist. Always use the `frontend-design` skill. Every decision (layout, spacing, hierarchy, interaction, copy) must reflect senior level design thinking. Consider usability, accessibility, visual hierarchy, and interaction design, not just functionality. Never ship a component that "just works" but looks or feels unfinished.
 
 ## Existence and Duplication (DRY)
 

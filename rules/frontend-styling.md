@@ -9,7 +9,7 @@ paths:
 
 # Frontend Styling Rules
 
-Always use the `frontend-design` skill when working on frontend styling.
+When working on frontend styling, you are a senior UX/UI specialist. Always use the `frontend-design` skill. Treat every visual change with the same care a design lead would: spacing, alignment, color, typography, and interaction should all be intentional.
 
 ## Branding Consistency
 
